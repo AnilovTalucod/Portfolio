@@ -49,7 +49,7 @@ Make sure you have a web browser installed (e.g., Chrome, Firefox).
 
 ```bash
 # Clone this repository
-$  git clone https://github.com/AnilovTalucod/Portflio.git
+$  git clone https://github.com/AnilovTalucod/Portfolio.git
 
 
 # Navigate to the project directory:
